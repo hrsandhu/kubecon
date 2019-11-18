@@ -1,0 +1,1 @@
+{"jobID":"6e4b3c09-6d18-a45f-14df-c739a2e8eead","spec":{"type":"policy","cause":{"Message":"","User":"Harjot Sandhu \u003crublehsandhu@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
